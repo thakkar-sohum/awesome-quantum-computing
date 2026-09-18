@@ -23,6 +23,7 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 - [APIs & SDKs](#apis--sdks)
 - [Quantum Algorithms](#quantum-algorithms)
 - [Quantum Programming Languages](#quantum-programming-languages)
+- [Toys](#toys)
 - [Communities & Organizations](#communities--organizations)
 - [Papers & Research](#papers--research)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -90,6 +91,10 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 - [Silq](https://silq.ethz.ch/) – High-level quantum language from ETH Zurich.
 - [Quil](https://pyquil-docs.rigetti.com/en/stable/) – Quantum Instruction Language by Rigetti.
 - [OpenQASM](https://github.com/Qiskit/openqasm) – Intermediate representation for quantum circuits (IBM).
+
+## Toys
+
+- [Qubi](https://www.qolour.com) – A physical model qubit. Two entangled spheres you rotate, measure, and entangle by hand, with a companion app that runs circuits on real IBM and IonQ hardware.
 
 ## Communities & Organizations
 
