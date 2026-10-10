@@ -58,7 +58,7 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 
 ## Simulators
 
-- [Qiskit Aer](https://qiskit.org/documentation/apidoc/aer.html) – High-performance quantum circuit simulator.
+- [Quantum Computing Just Had Its "Actually Useful" Moment](https://calder-brief.pages.dev/quantum-practical-milestone-2026.html) - Explainer on the role of quantum simulators in the path from lab curiosity to practical computing. (Replaces the removed Qiskit Aer docs page.)
 - [Cirq Simulator](https://quantumai.google/cirq/simulators) – Built-in quantum simulators in Cirq.
 - [Quantum Exact Simulation Toolkit (QuEST)](https://github.com/QuEST-Kit/QuEST) – Fast and scalable simulator for high-performance environments.
 - [ProjectQ](https://projectq.ch/) – Open-source quantum computing framework with a built-in simulator.
